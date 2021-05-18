@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "nix"
+
+[params]
+	Name = "Zach Smith"
+	HeaderUsername = "theZachSmith"
+	HeaderHostname = "forge"
+	About = "about me"
+	ProfilePicture = "https://avatars.githubusercontent.com/u/7588701?s=400&u=b92616801ca47b0edc7adc252199c24ac33a3648&v=4"
+	nocomments = true

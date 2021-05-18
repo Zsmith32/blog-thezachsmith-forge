@@ -1,0 +1,6 @@
+[submodule "hugo-theme-nix"]
+	path = hugo-theme-nix
+	url = https://github.com/LordMathis/hugo-theme-nix.git
+[submodule "themes/nix"]
+	path = themes/nix
+	url = https://github.com/LordMathis/hugo-theme-nix.git
