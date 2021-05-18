@@ -1,12 +1,21 @@
-baseURL = "http://example.org/"
+baseURL = "http://thezachsmith.forge"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Zach Smith Forge"
 theme = "nix"
 
 [params]
 	Name = "Zach Smith"
 	HeaderUsername = "theZachSmith"
 	HeaderHostname = "forge"
-	About = "about me"
+	About = "Welcome to my digital forge! I'm a Computer Engineer by trade but enjoy making all kinds of things. I plan to post blogs here about my creations."
 	ProfilePicture = "https://avatars.githubusercontent.com/u/7588701?s=400&u=b92616801ca47b0edc7adc252199c24ac33a3648&v=4"
 	nocomments = true
+	GithubID = "Zsmith32"
+	LinkedInID = "zachsmithforge"
+	Email = "smith.zach.p@gmail.com"
+
+[menu]
+	[[menu.header]]
+		name = "blog"
+		weight = 0
+		url = "blog.thezachsmith.forge"
