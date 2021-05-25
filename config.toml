@@ -13,6 +13,7 @@ theme = "nix"
 	GithubID = "Zsmith32"
 	LinkedInID = "zachsmithforge"
 	Email = "smith.zach.p@gmail.com"
+	TwitterID = "The_Zach_Smith"
 
 [menu]
 	[[menu.header]]
