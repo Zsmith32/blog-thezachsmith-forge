@@ -4,7 +4,7 @@ title = "The Zach Smith Forge"
 theme = "nix"
 
 [params]
-	Name = "Zach Smith"
+	Name = "TheZachSmith"
 	HeaderUsername = "theZachSmith"
 	HeaderHostname = "forge"
 	About = "Welcome to my digital forge! I'm a Computer Engineer by trade but enjoy making all kinds of things. I plan to post blogs here about my creations."
