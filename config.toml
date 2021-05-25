@@ -18,4 +18,4 @@ theme = "nix"
 	[[menu.header]]
 		name = "blog"
 		weight = 0
-		url = "blog.thezachsmith.forge"
+		url = "posts"
