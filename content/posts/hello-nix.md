@@ -24,3 +24,9 @@ To start things off I want to talk about why I've chosen Hugo as my static and a
 The Nix theme from (LordMathis)[https://github.com/LordMathis] was actually a great find! I have been roughly planning my personal site for a long time. I wanted a theme that crosses digital environments with a blacksmithing forge. The icon I use for this site was actually designed in 2018 using Inkscape. I seem to have lost the svg but luckily I still have somethings that will let me create a rough start to this site.  
 
 In any case the Nix theme was a great start to give me something close to the aesthetic I wanted without investing a lot of time in design. I'm not much of a designer and I wanted to get something like an MVP out there and start setting up the foundation of the site. Right now my goal for the site is to get some hands on experience with AWS. I received the AWS Solutions Architect Associate certification in October 2019 but I haven't had the chance to get a lot of hands on cloud experience. I probably won't be doing the most optimal thing for hosting a static site on AWS, but that's not my goal. I am in this to learn different things.
+
+
+#### What's Next?
+I am super excited to start this blog finally. Down the pipeline I will make blogs about further development on this site as well os other projects including my workbench, my lawn rehabilitation, and maybe I'll make a blog about my current development environment which I recently finished building out. (Running an Arch VM)
+
+Thanks for reading!
