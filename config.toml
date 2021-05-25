@@ -1,6 +1,6 @@
 baseURL = "http://thezachsmith.forge"
 languageCode = "en-us"
-title = "The Zach Smith Forge"
+title = "TheZachSmith Forge"
 theme = "nix"
 
 [params]
@@ -19,4 +19,4 @@ theme = "nix"
 	[[menu.header]]
 		name = "blog"
 		weight = 0
-		url = "posts"
+		url = "/posts"
