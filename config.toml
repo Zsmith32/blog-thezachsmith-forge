@@ -1,4 +1,4 @@
-baseURL = "http://thezachsmith.forge"
+baseURL = "http://localhost:8080"
 languageCode = "en-us"
 title = "TheZachSmith Forge"
 theme = "nix"
