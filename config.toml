@@ -8,13 +8,14 @@ theme = "nix"
 	HeaderUsername = "theZachSmith"
 	HeaderHostname = "forge"
 	About = "Welcome to my digital forge! I'm a Computer Engineer by trade but enjoy making all kinds of things. I plan to post blogs here about my creations."
-	ProfilePicture = "https://avatars.githubusercontent.com/u/7588701?s=400&u=b92616801ca47b0edc7adc252199c24ac33a3648&v=4"
+	ProfilePicture = "/img/thezachsmithcom.png"
 	nocomments = true
 	blogOnIndex = true
 	GithubID = "Zsmith32"
 	LinkedInID = "zachsmithforge"
 	Email = "smith.zach.p@gmail.com"
 	TwitterID = "The_Zach_Smith"
+	RSSURL = "/index.xml"
 
 [menu]
 	[[menu.header]]
